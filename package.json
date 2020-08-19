@@ -17,7 +17,5 @@
     "url": "https://github.com/Tom-M-Git/admin_theme_with_bootstrap/issues"
   },
   "homepage": "https://github.com/Tom-M-Git/admin_theme_with_bootstrap#readme",
-  "dependencies": {
-    "bootstrap-icons": "^1.0.0-alpha5"
-  }
+  "dependencies": {}
 }
